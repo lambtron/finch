@@ -19,8 +19,8 @@ You will need [mongo](https://www.mongodb.com) and [node](https://nodejs.org/en/
 
 ## Usage
 
-
-Run `make run`. Here is an example of output:
+- Start mongo with `mongod`.
+- Run `make run`. Here is an example of output:
 
 ```
 Alec Berg (@realalecberg)
