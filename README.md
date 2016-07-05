@@ -10,13 +10,15 @@ The current iteration is super beta and is a command line script. Future iterati
 
 ## Setup
 
+You will need [mongo](https://www.mongodb.com) and [node](https://nodejs.org/en/) (at least 4+).
+
 - Clone this repo
 - Create a [Twitter app here](https://apps.twitter.com)
 - Add the necessary credentials to your own `./.env` file (use `./.env.example` as an example)
 - Run `make build`
-- Run `make run`
 
 ## Usage
+
 
 Run `make run`. Here is an example of output:
 
